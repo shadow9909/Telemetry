@@ -1,0 +1,12 @@
+Telemetry is automatic recording and transmission of data to remote sources for monitoring and analysis
+there can be multiple parameters for monitoring accorging to the business requirments
+helpful is large scale systems
+analysing data from multiple sources is difficult
+
+#####
+Grafana 
+######
+it visualizes time series data, can be used in cloud also
+good in bringing data from multiple data sources
+helps in defining alerts based on parameters and threshold
+plugins are available for different db servers
